@@ -1,0 +1,7 @@
+{
+  "name": "Madrassah Al-Huda Management",
+  "description": "A comprehensive management system for Madrassah Al-Huda students, staff, and curriculum.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
